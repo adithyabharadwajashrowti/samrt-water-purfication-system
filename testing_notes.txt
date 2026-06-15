@@ -1,0 +1,23 @@
+testing notes:- Smart Water Purification System — Testing Notes
+
+I tested the system multiple times to understand whether the TDS sensor readings were reliable and whether the water purification setup could work consistently.
+
+The system was able to measure water quality and display readings on the LCD screen. The pump also worked to move water through the filtration setup when required.
+
+At the same time, there were a lot of small issues during testing.
+
+Sometimes the TDS readings fluctuated more than expected, especially after repeated testing. Small setup changes, water consistency, and sensor placement sometimes affected the readings.
+
+Managing smooth water flow through the filtration setup also took trial and error. Some tests worked properly, while others required recalibration and adjustments.
+
+One thing I realized quickly was that building a working prototype is very different from building something reliable enough for real-world use. Small hardware issues become much bigger when consistency matters.
+
+Even though it was not perfect, the project taught me a lot about sensors, calibration, debugging, and practical problem solving.
+
+Things I would improve:
+
+* Better TDS calibration
+* More reliable filtration system
+* Improved water flow consistency
+* Real-time monitoring dashboard
+* IoT-based monitoring
